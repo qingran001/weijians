@@ -1,0 +1,6 @@
+/** NicoNicoNi! */
+.register-page,.login-page{
+	background-image:url('./user1.jpg');
+	background-size:cover;
+	background-position:center;
+}
